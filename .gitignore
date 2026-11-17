@@ -1,0 +1,13 @@
+__pycache__/
+.integration-test/
+*.py[cod]
+.venv/
+*.egg-info/
+build/
+dist/
+docs/
+test/
+.pytest_cache/
+.mpv-download/
+vendor/mpv/*.dll
+vendor/mpv/*.exe
